@@ -36,3 +36,13 @@
   42 git commit -m "Added testing file"
   43 git status
   44 ls
+   52 git remote add origin https://github.com/Balaji4747/GitHub_for_DevOps.git
+  53 git remote -v
+  54 git remote set-url origin https://<PAT>github.com/Balaji4747/GitHub_for_DevOps.git
+  55 ls
+  56 git remote -v4
+  57 git remote -v
+  58 git push origin master
+  59 git branch
+  60 git push origin main
+  61  clear
